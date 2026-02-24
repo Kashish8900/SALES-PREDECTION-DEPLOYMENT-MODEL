@@ -1,0 +1,6 @@
+Flask
+catboost
+scikit-learn
+numpy
+pandas
+gunicorn
