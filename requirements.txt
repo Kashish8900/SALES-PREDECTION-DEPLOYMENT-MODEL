@@ -3,4 +3,4 @@ catboost
 scikit-learn
 numpy
 pandas
-gunicorn
+gunicorn==25.1.0
